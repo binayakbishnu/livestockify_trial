@@ -1,0 +1,516 @@
+{
+    "channel": {
+        "id": 2483390,
+        "name": "simtest",
+        "latitude": "0.0",
+        "longitude": "0.0",
+        "field1": "TEMPERATURE",
+        "field2": "HUMIDITY",
+        "field3": "Ammonia",
+        "created_at": "2024-03-24T05:37:37Z",
+        "updated_at": "2024-04-14T16:01:23Z",
+        "last_entry_id": 1080
+    },
+    "feeds": [
+        {
+            "created_at": "2024-05-16T07:02:25Z",
+            "entry_id": 981,
+            "field3": "2.00"
+        },
+        {
+            "created_at": "2024-05-16T07:02:51Z",
+            "entry_id": 982,
+            "field3": "2.00"
+        },
+        {
+            "created_at": "2024-05-16T07:03:17Z",
+            "entry_id": 983,
+            "field3": "2.00"
+        },
+        {
+            "created_at": "2024-05-16T07:04:21Z",
+            "entry_id": 984,
+            "field3": "2.00"
+        },
+        {
+            "created_at": "2024-05-16T07:04:47Z",
+            "entry_id": 985,
+            "field3": "2.00"
+        },
+        {
+            "created_at": "2024-05-16T07:05:12Z",
+            "entry_id": 986,
+            "field3": "2.00"
+        },
+        {
+            "created_at": "2024-05-16T07:05:38Z",
+            "entry_id": 987,
+            "field3": "2.00"
+        },
+        {
+            "created_at": "2024-05-16T07:06:35Z",
+            "entry_id": 988,
+            "field3": "2.00"
+        },
+        {
+            "created_at": "2024-05-16T07:07:00Z",
+            "entry_id": 989,
+            "field3": "2.00"
+        },
+        {
+            "created_at": "2024-05-16T07:07:26Z",
+            "entry_id": 990,
+            "field3": "2.00"
+        },
+        {
+            "created_at": "2024-05-16T07:07:51Z",
+            "entry_id": 991,
+            "field3": "1.00"
+        },
+        {
+            "created_at": "2024-05-16T07:08:17Z",
+            "entry_id": 992,
+            "field3": "3.00"
+        },
+        {
+            "created_at": "2024-05-16T07:08:42Z",
+            "entry_id": 993,
+            "field3": "1.00"
+        },
+        {
+            "created_at": "2024-05-16T07:09:08Z",
+            "entry_id": 994,
+            "field3": "3.00"
+        },
+        {
+            "created_at": "2024-05-16T07:09:33Z",
+            "entry_id": 995,
+            "field3": "3.00"
+        },
+        {
+            "created_at": "2024-05-16T07:09:59Z",
+            "entry_id": 996,
+            "field3": "3.00"
+        },
+        {
+            "created_at": "2024-05-16T07:10:25Z",
+            "entry_id": 997,
+            "field3": "3.00"
+        },
+        {
+            "created_at": "2024-05-16T07:10:51Z",
+            "entry_id": 998,
+            "field3": "3.00"
+        },
+        {
+            "created_at": "2024-05-16T07:11:18Z",
+            "entry_id": 999,
+            "field3": "3.00"
+        },
+        {
+            "created_at": "2024-05-16T07:11:43Z",
+            "entry_id": 1000,
+            "field3": "3.00"
+        },
+        {
+            "created_at": "2024-05-16T07:12:09Z",
+            "entry_id": 1001,
+            "field3": "3.00"
+        },
+        {
+            "created_at": "2024-05-16T07:12:33Z",
+            "entry_id": 1002,
+            "field3": "3.00"
+        },
+        {
+            "created_at": "2024-05-16T07:12:59Z",
+            "entry_id": 1003,
+            "field3": "3.00"
+        },
+        {
+            "created_at": "2024-05-16T07:13:50Z",
+            "entry_id": 1004,
+            "field3": "4.00"
+        },
+        {
+            "created_at": "2024-05-16T07:14:16Z",
+            "entry_id": 1005,
+            "field3": "4.00"
+        },
+        {
+            "created_at": "2024-05-16T07:14:42Z",
+            "entry_id": 1006,
+            "field3": "4.00"
+        },
+        {
+            "created_at": "2024-05-16T07:15:07Z",
+            "entry_id": 1007,
+            "field3": "4.00"
+        },
+        {
+            "created_at": "2024-05-16T07:15:29Z",
+            "entry_id": 1008,
+            "field3": "4.00"
+        },
+        {
+            "created_at": "2024-05-16T07:15:52Z",
+            "entry_id": 1009,
+            "field3": "4.00"
+        },
+        {
+            "created_at": "2024-05-16T07:16:15Z",
+            "entry_id": 1010,
+            "field3": "4.00"
+        },
+        {
+            "created_at": "2024-05-16T07:20:39Z",
+            "entry_id": 1011,
+            "field3": "6.00"
+        },
+        {
+            "created_at": "2024-05-16T07:21:02Z",
+            "entry_id": 1012,
+            "field3": "5.00"
+        },
+        {
+            "created_at": "2024-05-16T07:21:24Z",
+            "entry_id": 1013,
+            "field3": "4.00"
+        },
+        {
+            "created_at": "2024-05-16T07:21:50Z",
+            "entry_id": 1014,
+            "field3": "4.00"
+        },
+        {
+            "created_at": "2024-05-16T07:22:15Z",
+            "entry_id": 1015,
+            "field3": "4.00"
+        },
+        {
+            "created_at": "2024-05-16T07:22:41Z",
+            "entry_id": 1016,
+            "field3": "4.00"
+        },
+        {
+            "created_at": "2024-05-16T07:23:03Z",
+            "entry_id": 1017,
+            "field3": "4.00"
+        },
+        {
+            "created_at": "2024-05-16T07:23:26Z",
+            "entry_id": 1018,
+            "field3": "4.00"
+        },
+        {
+            "created_at": "2024-05-16T07:23:51Z",
+            "entry_id": 1019,
+            "field3": "3.00"
+        },
+        {
+            "created_at": "2024-05-16T07:24:17Z",
+            "entry_id": 1020,
+            "field3": "3.00"
+        },
+        {
+            "created_at": "2024-05-16T07:24:42Z",
+            "entry_id": 1021,
+            "field3": "3.00"
+        },
+        {
+            "created_at": "2024-05-16T07:25:04Z",
+            "entry_id": 1022,
+            "field3": "3.00"
+        },
+        {
+            "created_at": "2024-05-16T07:25:30Z",
+            "entry_id": 1023,
+            "field3": "3.00"
+        },
+        {
+            "created_at": "2024-05-16T07:25:55Z",
+            "entry_id": 1024,
+            "field3": "3.00"
+        },
+        {
+            "created_at": "2024-05-16T07:26:19Z",
+            "entry_id": 1025,
+            "field3": "3.00"
+        },
+        {
+            "created_at": "2024-05-16T07:26:44Z",
+            "entry_id": 1026,
+            "field3": "3.00"
+        },
+        {
+            "created_at": "2024-05-16T07:27:08Z",
+            "entry_id": 1027,
+            "field3": "3.00"
+        },
+        {
+            "created_at": "2024-05-16T07:27:34Z",
+            "entry_id": 1028,
+            "field3": "3.00"
+        },
+        {
+            "created_at": "2024-05-16T07:28:00Z",
+            "entry_id": 1029,
+            "field3": "3.00"
+        },
+        {
+            "created_at": "2024-05-16T07:29:00Z",
+            "entry_id": 1030,
+            "field3": "3.00"
+        },
+        {
+            "created_at": "2024-05-16T07:29:26Z",
+            "entry_id": 1031,
+            "field3": "3.00"
+        },
+        {
+            "created_at": "2024-05-16T07:29:52Z",
+            "entry_id": 1032,
+            "field3": "3.00"
+        },
+        {
+            "created_at": "2024-05-16T07:30:18Z",
+            "entry_id": 1033,
+            "field3": "3.00"
+        },
+        {
+            "created_at": "2024-05-16T07:31:15Z",
+            "entry_id": 1034,
+            "field3": "3.00"
+        },
+        {
+            "created_at": "2024-05-16T07:31:41Z",
+            "entry_id": 1035,
+            "field3": "3.00"
+        },
+        {
+            "created_at": "2024-05-16T07:32:05Z",
+            "entry_id": 1036,
+            "field3": "3.00"
+        },
+        {
+            "created_at": "2024-05-16T07:32:30Z",
+            "entry_id": 1037,
+            "field3": "3.00"
+        },
+        {
+            "created_at": "2024-05-16T07:32:55Z",
+            "entry_id": 1038,
+            "field3": "3.00"
+        },
+        {
+            "created_at": "2024-05-16T07:33:19Z",
+            "entry_id": 1039,
+            "field3": "3.00"
+        },
+        {
+            "created_at": "2024-05-16T07:33:44Z",
+            "entry_id": 1040,
+            "field3": "3.00"
+        },
+        {
+            "created_at": "2024-05-16T07:34:08Z",
+            "entry_id": 1041,
+            "field3": "3.00"
+        },
+        {
+            "created_at": "2024-05-16T07:34:33Z",
+            "entry_id": 1042,
+            "field3": "3.00"
+        },
+        {
+            "created_at": "2024-05-16T07:34:58Z",
+            "entry_id": 1043,
+            "field3": "3.00"
+        },
+        {
+            "created_at": "2024-05-17T16:20:17Z",
+            "entry_id": 1044,
+            "field3": "10.00"
+        },
+        {
+            "created_at": "2024-05-17T16:20:39Z",
+            "entry_id": 1045,
+            "field3": "10.00"
+        },
+        {
+            "created_at": "2024-05-17T16:21:01Z",
+            "entry_id": 1046,
+            "field3": "10.00"
+        },
+        {
+            "created_at": "2024-05-17T16:21:23Z",
+            "entry_id": 1047,
+            "field3": "9.00"
+        },
+        {
+            "created_at": "2024-05-17T16:21:45Z",
+            "entry_id": 1048,
+            "field3": "9.00"
+        },
+        {
+            "created_at": "2024-05-17T16:22:07Z",
+            "entry_id": 1049,
+            "field3": "8.00"
+        },
+        {
+            "created_at": "2024-05-17T16:22:29Z",
+            "entry_id": 1050,
+            "field3": "8.00"
+        },
+        {
+            "created_at": "2024-05-17T16:22:51Z",
+            "entry_id": 1051,
+            "field3": "7.00"
+        },
+        {
+            "created_at": "2024-05-17T16:23:14Z",
+            "entry_id": 1052,
+            "field3": "7.00"
+        },
+        {
+            "created_at": "2024-05-17T16:23:36Z",
+            "entry_id": 1053,
+            "field3": "7.00"
+        },
+        {
+            "created_at": "2024-05-17T16:23:58Z",
+            "entry_id": 1054,
+            "field3": "7.00"
+        },
+        {
+            "created_at": "2024-05-17T16:24:20Z",
+            "entry_id": 1055,
+            "field3": "6.00"
+        },
+        {
+            "created_at": "2024-05-17T16:24:42Z",
+            "entry_id": 1056,
+            "field3": "6.00"
+        },
+        {
+            "created_at": "2024-05-17T16:25:04Z",
+            "entry_id": 1057,
+            "field3": "6.00"
+        },
+        {
+            "created_at": "2024-05-17T16:25:26Z",
+            "entry_id": 1058,
+            "field3": "6.00"
+        },
+        {
+            "created_at": "2024-05-17T16:25:48Z",
+            "entry_id": 1059,
+            "field3": "6.00"
+        },
+        {
+            "created_at": "2024-05-17T16:26:10Z",
+            "entry_id": 1060,
+            "field3": "6.00"
+        },
+        {
+            "created_at": "2024-05-17T16:26:32Z",
+            "entry_id": 1061,
+            "field3": "6.00"
+        },
+        {
+            "created_at": "2024-05-17T16:26:54Z",
+            "entry_id": 1062,
+            "field3": "5.00"
+        },
+        {
+            "created_at": "2024-05-17T16:27:16Z",
+            "entry_id": 1063,
+            "field3": "5.00"
+        },
+        {
+            "created_at": "2024-05-17T16:27:39Z",
+            "entry_id": 1064,
+            "field3": "5.00"
+        },
+        {
+            "created_at": "2024-05-17T16:28:01Z",
+            "entry_id": 1065,
+            "field3": "5.00"
+        },
+        {
+            "created_at": "2024-05-17T16:28:22Z",
+            "entry_id": 1066,
+            "field3": "5.00"
+        },
+        {
+            "created_at": "2024-05-17T16:28:45Z",
+            "entry_id": 1067,
+            "field3": "5.00"
+        },
+        {
+            "created_at": "2024-05-17T16:29:07Z",
+            "entry_id": 1068,
+            "field3": "5.00"
+        },
+        {
+            "created_at": "2024-05-17T16:29:29Z",
+            "entry_id": 1069,
+            "field3": "5.00"
+        },
+        {
+            "created_at": "2024-05-17T16:29:51Z",
+            "entry_id": 1070,
+            "field3": "5.00"
+        },
+        {
+            "created_at": "2024-05-17T16:30:14Z",
+            "entry_id": 1071,
+            "field3": "4.00"
+        },
+        {
+            "created_at": "2024-05-17T16:30:38Z",
+            "entry_id": 1072,
+            "field3": "4.00"
+        },
+        {
+            "created_at": "2024-05-17T16:31:00Z",
+            "entry_id": 1073,
+            "field3": "4.00"
+        },
+        {
+            "created_at": "2024-05-17T16:31:22Z",
+            "entry_id": 1074,
+            "field3": "4.00"
+        },
+        {
+            "created_at": "2024-05-17T16:31:44Z",
+            "entry_id": 1075,
+            "field3": "4.00"
+        },
+        {
+            "created_at": "2024-05-17T16:32:43Z",
+            "entry_id": 1076,
+            "field3": "4.00"
+        },
+        {
+            "created_at": "2024-05-17T16:34:52Z",
+            "entry_id": 1077,
+            "field3": "4.00"
+        },
+        {
+            "created_at": "2024-05-17T16:37:15Z",
+            "entry_id": 1078,
+            "field3": "4.00"
+        },
+        {
+            "created_at": "2024-05-17T16:39:26Z",
+            "entry_id": 1079,
+            "field3": "4.00"
+        },
+        {
+            "created_at": "2024-05-17T16:42:11Z",
+            "entry_id": 1080,
+            "field3": "3.00"
+        }
+    ]
+}
